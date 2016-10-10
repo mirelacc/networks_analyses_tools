@@ -1,0 +1,684 @@
+
+
+== Graph - theory & basics ==
+
+http://setosa.io/ev/eigenvectors-and-eigenvalues/
+
+https://www.youtube.com/channel/UCCqW98YlsST73jnB3WuUjbw/playlists
+
+https://www.youtube.com/watch?v=fKSNme3fnL0
+
+https://en.wikipedia.org/wiki/Bipartite_graph 
+
+https://en.wikipedia.org/wiki/Network_effect
+
+https://en.wikipedia.org/wiki/Graph_(discrete_mathematics)
+
+https://en.wikipedia.org/wiki/Directed_graph https://en.wikipedia.org/wiki/Symmetric_relation 
+
+https://en.wikipedia.org/wiki/Seven_Bridges_of_K%C3%B6nigsberg
+
+https://en.wikipedia.org/wiki/Network_science
+
+https://en.wikipedia.org/wiki/Complex_network 
+
+https://en.wikipedia.org/wiki/List_of_network_theory_topics 
+
+http://jasonpark.me/AlgorithmVisualizer/#path=graph_search/topological_sort/kahn_algorithm
+
+
+
+== Networks & Analysis ==
+
+http://www.ladamic.com/netlearn/NetLogo502/VisualizationCommunities.html
+
+http://ladamic.com/netlearn/NetLogo501/LatticePercolation.html
+
+http://ladamic.com/netlearn/NetLogo501/RandomGraphs.html
+
+http://ladamic.com/netlearn/NetLogo501/ErdosRenyiDegDist.html
+
+http://ladamic.com/netlearn/NetLogo501/ErdosRenyiTwoComponents.html
+
+http://www.ladamic.com/netlearn/NetLogo502/VisualizationCommunities.html
+
+
+''' Considerations about networks '''
+
+https://visualisingadvocacy.org/blog/if-everything-network-nothing-network
+ 
+
+
+=== SNA ===
+
+
+https://en.wikipedia.org/wiki/Network_science
+ 
+https://en.wikipedia.org/wiki/Social_network 
+
+https://en.wikipedia.org/wiki/Social_network_analysis
+
+http://snap.stanford.edu/
+
+https://cs.stanford.edu/people/jure/talks/ 
+
+https://cs.stanford.edu/people/jure/
+
+http://jasonpark.me/AlgorithmVisualizer/#path=graph_search/page_rank/basic
+
+https://cs.stanford.edu/people/jure/pubs/
+
+https://www.youtube.com/watch?v=fMHZt4UStUg 
+
+https://www.youtube.com/watch?v=eI-hmySej_w
+
+
+W/ R
+
+https://www.youtube.com/watch?v=b_qwazJWsZE
+
+=== Measurements, centralitiy ===
+
+https://sites.google.com/site/networkanalysisacourse/schedule/an-introduction-to-centrality-measures
+
+How Correlated Are Network Centrality Measures?
+
+http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2875682/
+
+Implementing graph centrality measures for Neo4j
+
+https://www.researchgate.net/publication/273122718_Implementing_graph_centrality_measures_for_Neo4j
+
+https://gist.github.com/jexp/c643d1694d0967ea395c4574e720058c
+
+http://numergent.com/2015-05/Tropology-performance-PostgreSQL-vs-Neo4j.html
+
+=== Detecting clusters / communities ===
+
+Affiliation Network Models for Densely Overlapping Communities in Networks
+
+Jure Leskovec, Stanford University
+
+Networks are a general language for describing social, tech- nological and biological systems. Nodes in such networks organize into densely linked and overlapping clusters that correspond to communities in social networks, functionally related proteins in biological networks, or topically related webpages in information networks. Identifying such clusters is crucial to the understanding of the structural and func- tional roles of networks.
+
+https://www.youtube.com/watch?v=htWQWN1xAZQ
+
+A.O.:
+
+Community detection: 
+
+- Granovetter: small-worlds, strong & weak ties
+
+- Girvan-Newman betweenness centrality
+
+Overlapping & non-overlapping clusters/communities
+
+- k-clique algorithm
+(+ mixed-membership stochastic block models, Airoldi et al. -> prodability distribution
+of community memberships, for every pair of communities you know the background linking probability for that pair)
+
+Discover communities:
+
+1 - take dataset
+
+2 - represent as graph
+
+3 - identify communities (or clusters)
+
+4 - interpret clusters as real communities
+
+Look at ground-truth, true latent clusters
+
+Find networks with labels for clusters ahead of time:
+
+Scientific collaborations: journals as research areas
+
+Social networks: groups, lists
+
+Information networks: topic based groups
+
+A node can be a member of 0 or more group
+[…]
+
+
+'''+'''
+
+http://engineering.stanford.edu/news/big-questions-big-data-stanfords-jure-leskovec
+
+Supervised Random Walks: Predicting and Recommending Links in Social Networks
+
+https://webcache.googleusercontent.com/search?q=cache:1Gd3na9sy5EJ:https://arxiv.org/pdf/1011.4071+&cd=10&hl=en&ct=clnk&gl=nl
+
+
+'''+'''
+
+Guaranteed Learning of Latent Variable Models: Overlapping Community Models and Overcomplete Representations
+
+Incorporating latent or hidden variables is a crucial aspect of statistical modeling. I will present a statistical and a computational framework for guaranteed learning of a wide range of latent variable models. I will focus on two instances, viz., community detection and overcomplete representations.
+
+The goal of community detection is to discover hidden communities from graph data. I will present a tensor decomposition approach for learning probabilistic mixed membership models. The tensor approach is guaranteed to correctly recover the mixed membership communities with tight guarantees. We have deployed it on many real-world networks, e.g. Facebook, Yelp and DBLP. It is easily parallelizable, and is orders of magnitude faster than the state-of-art stochastic variational approach.
+
+https://www.youtube.com/watch?v=7BKsmmxDq6Y
+
+w/ Gephi
+
+https://www.youtube.com/watch?v=7LMnpM0p4cM
+
+
+== Complexity & Networks ==
+
+https://en.wikipedia.org/wiki/Hypergraph  
+
+tex.stackexchange.com/questions/1175/drawing-a-hypergraph
+
+http://mathworld.wolfram.com/Hyperedge.html
+
+
+=== Complexity & Systems ===
+
+http://www.kdnuggets.com/2015/09/data-science-process-mining-understanding-complex-processes.html
+
+https://www.newscientist.com/article/2076607-a-crude-look-at-the-whole-complexity-is-still-outsmarting-us/
+
+http://blog.acolyer.org/2016/02/10/how-complex-systems-fail/
+
+http://en.wikipedia.org/wiki/Complex_systems
+
+
+== Mining Large Graphs ==
+
+http://slideplayer.com/slide/4741541/#download
+
+Multiplicative Attribute Graph Model of Real-World Networks
+What is a mathematically tractable model that naturally captures ways in which the network structure and node attributes interact? What are the properties of networks that arise under such a model? We present a model of network structure that we refer to as the multiplicative attribute graphs (MAG) model. 
+
+http://www.tandfonline.com/doi/abs/10.1080/15427951.2012.625257 (-> scihub)
+
+http://www.cs.cmu.edu/~pegasus/publications.htm
+
+
+http://becs.aalto.fi/en/personnel/staff/fortunato_santo.html
+(see presentations too)
+
+
+
+== Data Modeling ==
+
+https://www.hakkalabs.co/articles/graph-data-modeling
+
+http://portal.graphgist.org/about
+
+https://www.youtube.com/watch?v=3w_ih8_9rVY
+
+https://www.youtube.com/watch?v=-YPXFMjGtDc
+
+http://graphaware.com/neo4j/2015/01/16/neo4j-graph-model-design-labels-versus-indexed-properties.html
+
+https://www.hakkalabs.co/articles/graph-data-modeling
+
+gist
+http://portal.graphgist.org/about
+
+
+http://graphaware.com/neo4j/2013/10/11/neo4j-bidirectional-relationships.html
+
+http://neo4j.com/developer/example-project/
+
+http://blog.bruggen.com/2014/01/leftovers-from-holidays-genealogy-graphs.html
+
+http://guides.neo4j.com/graphgist/panama_papers.html
+
+https://speakerdeck.com/vandergoes/graph-databases-amsterdam-presentation-ii 
+
+http://neo4j.com/graphgists/
+
+https://gist.github.com/jexp/50eaad78038e0cc2d217
+
+neo4j.com/docs/developer-manual/current/ 
+
+stackoverflow.com/questions/7393824/specification-of-a-directed-graph 
+
+http://stackoverflow.com/questions/35150522/storing-directed-graphs-with-neo4j
+
+http://infolab.stanford.edu/gps/
+
+dl.acm.org/citation.cfm?id=1582723 
+
+http://giraph.apache.org/
+
+
+
+
+=== Triplets/RDF vs graphs ===
+
+
+https://www.quora.com/What-are-the-differences-between-a-Graph-database-and-a-Triple-store
+
+http://stackoverflow.com/questions/18482663/what-is-the-difference-between-triplestores-and-graph-databases
+
+http://stackoverflow.com/questions/10366131/what-is-the-advantage-of-rdf-and-triple-storage-to-neo4j/10369378#10369378
+
+http://neo4j.com/blog/inside-analysis-graph-database-rdf-database/
+
+http://insideanalysis.com/2015/01/the-graph-database-and-the-rdf-database/
+
+http://orientdb.com/orientdb-vs-neo4j/
+
+https://en.wikipedia.org/wiki/Ontology_%28information_science%29
+
+https://www.airpair.com/neo4j/posts/modelling-game-economy-with-neo4j
+
+RDF Graph Data Aggregation 1:
+
+https://www.youtube.com/watch?v=phA3h1Pu5MA
+
+www.slideshare.net/GregoryRoberts11/how-the-power-of-graphs-helps-deliver-packts-strategic-vision
+
+http://www.slideshare.net/neo4j/designing-and-building-a-graph-database-application-architectural-choices-data-modeling-and-testing-ian-robinson-graphconnect-ny-2013-28056565
+
+Making Sense of The Graph Episode 1: Freebase RDF Data Dumps The Easy Way with SindiceTech
+https://www.youtube.com/watch?v=m6EdVYt9rgs
+
+tripleRush: a fast and scalable triple store
+https://www.youtube.com/watch?v=SCZZyAb6igA 
+
+https://en.wikipedia.org/wiki/Semantic_query
+
+Storing RDF as a Graph
+http://www.ntu.edu.sg/home/bshe/graphStorage.pdf 	
+
+
+Triple storing – into directed graph
+
+https://www.youtube.com/watch?v=589zf0y4cqY
+
+
+https://en.wikipedia.org/wiki/Resource_Description_Framework 
+
+https://www.quora.com/What-are-the-differences-between-a-Graph-database-and-a-Triple-store
+
+http://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0144578
+
+http://stackoverflow.com/questions/30166007/graph-databases-vs-triple-stores-when-to-use-which
+
+http://insideanalysis.com/2015/01/the-graph-database-and-the-rdf-database/
+
+
+https://en.wikipedia.org/wiki/Semantic_query 
+
+https://en.wikipedia.org/wiki/Triplestore
+
+http://stackoverflow.com/questions/10366131/what-is-the-advantage-of-rdf-and-triple-storage-to-neo4j
+
+https://www.w3.org/RDF/
+
+https://www.youtube.com/watch?v=0gtpTh6XgsM 
+
+https://www.youtube.com/watch?v=Nk9TOx1sBUk 
+
+https://en.wikipedia.org/wiki/Resource_Description_Framework
+
+http://www.snee.com/bobdc.blog/2014/01/storing-and-querying-rdf-in-ne.html 
+
+http://www.linkeddatatools.com/introducing-rdf
+
+http://www.dataversity.net/introduction-to-triplestores/
+
+https://www.quora.com/What-is-graph-database/answer/Bryce-Merkl-Sasaki?share=443f8f12
+
+http://neo4j.com/blog/neo4j-3-0-graph-universe/ 
+
+https://en.wikipedia.org/wiki/Graph_database
+
+https://www.youtube.com/watch?v=kn-YeDXR4R8
+
+
+
+''' nosql vs rdf'''
+
+http://blog.datagraph.org/2010/04/rdf-nosql-diff
+
+
+== General ==
+
+'''+ R = ggnetwork:'''
+
+https://briatte.github.io/ggnetwork/
+
+https://www.youtube.com/watch?v=UodTzseLh04
+
+https://www.youtube.com/watch?v=aRo6na52tZs
+
+http://varianceexplained.org/r/love-actually-network/
+
+http://neo4j.com/blog/building-a-global-issues-graph-for-world-leaders/
+
+https://www.youtube.com/watch?v=Go3P73-KV30
+
+http://ontotext.com/blog/graph-databases/
+
+http://www.infoworld.com/article/2611503/application-development/what-are-graph-databases-good-for--here-s-a-killer-app.html
+
+https://www.youtube.com/user/NextDayVideo/search?query=graphs
+
+
+
+== DBs, Engines & Metadata ==
+
+'''MonetDB + Graphs:'''
+
+http://db-engines.com/en/system/MonetDB%3BNeo4j
+
+MonetDB Release with Optimized Graph Path Processing:
+
+http://webcache.googleusercontent.com/search?q=cache:g-orjprXUUoJ:www.csd.uoc.gr/~hy561/papers/benchmarking/MonetDB%2520Release%2520with%2520Optimized%2520Graph%2520Path%2520Processing.pdf+&cd=5&hl=en&ct=clnk&gl=nl 
+
+"This document describes the HSP heuristic SPARQL front-end for MonetDB that was used as a basis for experiments with RDF graph clustering; 
+and an overview of this ongoing research in RDF graph clustering and indexing."
+
+http://www.google.nl/url?sa=t&rct=j&q=&esrc=s&source=web&cd=5&ved=0ahUKEwiv3MrKnaLMAhXhK8AKHdKOCvkQFgg0MAQ&url=http%3A%2F%2Fwww.csd.uoc.gr%2F~hy561%2Fpapers%2Fbenchmarking%2FMonetDB%2520Release%2520with%2520Optimized%2520Graph%2520Path%2520Processing.pdf&usg=AFQjCNFHU2CKjXXPoHw89r3UmsShAbXmdw&sig2=yqJZtc7vovNFYZnVRpsvAg&cad=rja
+
+Using the Monet database system as a platform for graph processing:
+
+http://www.google.nl/url?sa=t&rct=j&q=&esrc=s&source=web&cd=6&ved=0ahUKEwiv3MrKnaLMAhXhK8AKHdKOCvkQFgg7MAU&url=http%3A%2F%2Fwww.cs.uu.nl%2Feducation%2Fscripties%2Fpdf.php%3FSID%3DINF%2FSCR-2010-015&usg=AFQjCNHeI11NUFxnuyxXjUpDlOGbkK1dMQ&sig2=hbDzm2_xLqBVX5_LQ-aP2A&cad=rja
+
+
+==== Graph DB's ====
+
+Neo4j (OSS/--, makkelijk, maar: Big 	Data, tijd, analyse,..)
+
+Titan (+HBase) (populair, Big Data, distr., Gremlin)
+
+Giraph ('processing system',  FB, OSS, schaalbaar)
+
+Pregel (large-scale, distr.)
+
+GraphX ('graph system', Spark, parallel, OSS)
+
+GraphChi ('distributed system', for Big Data power on one PC, OSS)
+
+GraphLab/Dato
+
+FlockDB
+
+
+Multi-model DB's: ArangoDB + OrientDB
+
+
+'Full stack': Tinkerpop (populair)
+
+==== Tools / libraries: ====
+
+Cytoscape (OTS, OSS)
+Gephi (OTS, OSS)
+
+SNAP (Python, C++)
+
+Pajek (OTS, P.) 
+Ucinet (OTS, P.?)
+
+igraph (R, Python, C++)
+graphtool (Python, fast/perf.)
+networKit (large-scale, Python/Cython)
+sna (R, A & V??)
+network (R)
+networkX (Python, A(!), V??? )
+
+NetdiffuseR (R, diffusie/transmissie/etc.)
+VisNetwork (R, visualisatie)
+qgraph (R, visualisatie)
+
+hiveplot (visualisatie, Python)
+hiveR (visualisatie, R)
+
+
+'''Sharing & publishing of network information'''
+ 
+NDEXBIO
+ 
+
+
+=== Metadata ===
+
+https://linkurio.us/knowledge-management-analysing-documents-metadata-graphs/
+
+http://stackoverflow.com/questions/24931059/metadata-in-neo4j-graph-database
+
+https://www.simple-talk.com/sql/t-sql-programming/experiments-with-neo4j-using-a-graph-database-as-a-sql-server-metadata-hub/
+
+== Visualization ==
+
+'''R'''
+
+https://www.youtube.com/watch?v=TGICEEL-OYI
+
+
+'''BioFabric'''	
+
+http://www.biofabric.org/gallery/pages/SuperQuickBioFabric.html
+
+https://github.com/wjrl/RBioFabric
+ 
+
+
+'''Hive Plots - rational network visualization'''
+
+http://nbviewer.jupyter.org/github/ericmjl/hiveplot/blob/master/test/Tests.ipynb
+
+www.r-bloggers.com/hive-plots-using-r-and-cytoscape/
+
+https://cran.r-project.org/web/packages/HiveR/index.html
+
+http://academic.depauw.edu/~hanson/HiveR/HiveR.html
+
+geotheory.co.uk/blog/2013/10/30/a-hive-plot-of-hospitality-received-by-coallition-special-advisers/ 
+
+https://gist.github.com/geotheory/7638772
+
+www.r-bloggers.com/making-a-hive-plot-of-hiv-transmission-network-tutorial/ 
+
+https://github.com/ericmjl/hiveplot
+
+http://www.hiveplot.net/
+
+http://bib.oxfordjournals.org/content/early/2011/12/09/bib.bbr069.short?rss=1 (paper-link)
+
+http://datavizproject.com/data-type/hive-plot/
+
+http://www.visualisingdata.com/2011/12/hive-plots-bid-farewell-to-hairball-visualisations/
+
+https://seeingcomplexity.wordpress.com/2011/02/05/hive-plots-and-hairballs/
+
+http://www.wired.com/2013/11/wired-data-life-martin-krzywinski/
+
+
+''' W/ R:'''
+
+https://cran.r-project.org/web/packages/HiveR/index.html
+
+
+'''- Martin Krzywinski, creator of Hive plots, on visualization in science:'''
+
+https://www.youtube.com/watch?v=mS8Q5_sZYH8
+
+http://mkweb.bcgsc.ca/
+
+
+
+'Neo4R'
+
+https://www.youtube.com/watch?v=ADzGdovNNE0
+
+
+
+'''Thoughts about'''
+
+https://visualisingadvocacy.org/blog/if-everything-network-nothing-network
+
+== Graphs + Statistics ==
+
+http://neo4j.com/docs/stable/query-schema-statistics.html
+
+http://stackoverflow.com/questions/28940780/a-telling-set-of-graph-statistics
+
+http://neo4j.com/docs/stable/query-aggregation.html
+
+'''+ py'''
+
+https://www.youtube.com/watch?v=Nkd6Ei-xuxI
+
+'''+ R'''
+
+https://www.youtube.com/watch?v=bdQ90y9Pefo
+
+
+Statistical Modeling of Social Networks - Mark Handcock, UCLA 
+
+https://www.youtube.com/watch?v=dnuKol7GEH4
+
+
+http://complexitylearning.io/members/complexitylab/
+
+
+http://ccl.northwestern.edu/netlogo/models/GiantComponent
+
+https://www.youtube.com/watch?v=yisN77RMAAA
+
+
+A bunch of useful scripts for analyzing networks:
+
+https://github.com/rhiever/network-analysis-scripts
+
+
+http://redditstuff.github.io/sna/
+
+https://github.com/rhiever/sna
+
+
+
+=== Agent Based Modeling ===
+
+
+''Understand the underlying dynamics that lead to the observed structures''
+
+http://en.wikipedia.org/wiki/Agent-based_model 
+
+http://www.jstor.org/discover/10.2307/3069238?uid=3738736&uid=2&uid=4&sid=21104674974203 
+
+http://books.google.nl/books?hl=en&lr=&id=543OS3qdxBYC&oi=fnd&pg=PA4&dq=agent+based+axelrod&ots=j0BqTgWgK9&sig=WQDiPwkD0vU2ktH98FktBUKi624&redir_esc=y#v=onepage&q=agent%20based%20axelrod&f=false 
+
+tit-for-tat (https://en.wikipedia.org/wiki/Tit_for_tat) 
+
+prisoners dilemma (https://en.wikipedia.org/wiki/Prisoner%27s_dilemma) 
+
+rational-actor optimization 
+
+http://en.wikipedia.org/wiki/Robert_Axelrod 
+
+http://en.wikipedia.org/wiki/The_Evolution_of_Cooperation 
+
+http://en.wikipedia.org/wiki/Evolutionarily_stable_strategy 
+
+Game Theory, Part 4 (Non-strictly Determined Game)
+
+https://www.youtube.com/watch?v=kl44-EW7YqI 
+
+
+Axelrod: 
+
+http://www.sciencedirect.com/science/article/pii/S1574002105020447 
+
+http://link.springer.com/chapter/10.1007/978-3-662-03366-1_2#page-1 
+
+http://books.google.nl/books?hl=en&lr=&id=J0dgRGMdjmQC&oi=fnd&pg=PP1&dq=agent+based+axelrod&ots=OpqjvnNJIa&sig=RdROgG-mOlkvggB5UBAsrTSIEb0&redir_esc=y#v=onepage&q=agent%20based%20axelrod&f=false 
+
+http://books.google.nl/books?hl=en&lr=&id=T8_zh3F7rMIC&oi=fnd&pg=PP2&dq=agent+based+axelrod&ots=z-pn3g2gyg&sig=uGwnlJ-atgvmcn2DArDTKN5RKNI&redir_esc=y#v=onepage&q=agent%20based%20axelrod&f=false 
+
+http://www.jstor.org/discover/10.2307/3069238?uid=3738736&uid=2&uid=4&sid=21104674974203 
+
+http://www.sciencedirect.com/science/article/pii/S1574002105020332 
+
+http://www.sciencedirect.com/science/article/pii/S0304380006002043 
+
+
+
+=== Petri nets ===
+
+https://www.youtube.com/watch?v=bd3wTrRh2O0 
+
+https://www.youtube.com/watch?v=1IPOIE0PvQY 
+
+https://www.youtube.com/watch?v=NC-4lTXFfqE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=== Researchers ===
+
+Peter Sloot:
+
+https://www.youtube.com/watch?v=50b6GCgBFSk  
+
+https://www.youtube.com/watch?v=bDrpkv_VfWM  
+
+https://www.youtube.com/watch?v=T3AnxpXoQNE
+
+https://www.youtube.com/watch?v=6s55KZNNvbM
+
+http://www.peter-sloot.com/research.html
+
+www.peter-sloot.com/research.html 
+
+enipedia.tudelft.nl/wiki/Main_Page
+
+http://coco.binghamton.edu/
+
+https://en.wikipedia.org/wiki/Complexity
+
+http://www.uva.nl/over-de-uva/organisatie/medewerkers/content/s/l/p.m.a.sloot/p.m.a.sloot.html
+
+http://web.media.mit.edu/~sandy/
+
+http://socialphysics.media.mit.edu/
+
+'''
+Mesoscale Structures in Networks'''
+
+http://www.slideshare.net/masonporter/mesoscale-structures-in-networks-62116874
+
+http://people.maths.ox.ac.uk/porterm/
+
+http://www.johndcook.com/blog/complex-networks/
+
+www.med.monash.edu.au/psych/bmh/people/alex.html
+
+sites.lsa.umich.edu/scottepage/ 
+
+http://estebanmoro.org/category/publications/
+
+https://twitter.com/tiagopeixoto
+
+https://skewed.de/tiago
+
+https://twitter.com/lpfeed 
+
+http://lizier.me/joseph/
+
+http://coco.binghamton.edu/
+
+https://vimeo.com/164602980 
+
+https://twitter.com/BinghamtonCoCo
+
+
+
