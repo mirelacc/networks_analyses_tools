@@ -43,7 +43,7 @@ http://ladamic.com/netlearn/NetLogo501/ErdosRenyiTwoComponents.html
 http://www.ladamic.com/netlearn/NetLogo502/VisualizationCommunities.html
 
 
-''' Considerations about networks '''
+Considerations about networks  
 
 https://visualisingadvocacy.org/blog/if-everything-network-nothing-network
  
@@ -140,17 +140,13 @@ Information networks: topic based groups
 A node can be a member of 0 or more group
 […]
 
-
-'''+'''
-
+ 
 http://engineering.stanford.edu/news/big-questions-big-data-stanfords-jure-leskovec
 
 Supervised Random Walks: Predicting and Recommending Links in Social Networks
 
 https://webcache.googleusercontent.com/search?q=cache:1Gd3na9sy5EJ:https://arxiv.org/pdf/1011.4071+&cd=10&hl=en&ct=clnk&gl=nl
-
-
-'''+'''
+ 
 
 Guaranteed Learning of Latent Variable Models: Overlapping Community Models and Overcomplete Representations
 
@@ -334,14 +330,14 @@ https://www.youtube.com/watch?v=kn-YeDXR4R8
 
 
 
-''' nosql vs rdf'''
+nosql vs rdf 
 
 http://blog.datagraph.org/2010/04/rdf-nosql-diff
 
 
 == General ==
 
-'''+ R = ggnetwork:'''
++ R = ggnetwork:
 
 https://briatte.github.io/ggnetwork/
 
@@ -365,7 +361,7 @@ https://www.youtube.com/user/NextDayVideo/search?query=graphs
 
 == DBs, Engines & Metadata ==
 
-'''MonetDB + Graphs:'''
+MonetDB + Graphs: 
 
 http://db-engines.com/en/system/MonetDB%3BNeo4j
 
@@ -432,7 +428,7 @@ hiveplot (visualisatie, Python)
 hiveR (visualisatie, R)
 
 
-'''Sharing & publishing of network information'''
+Sharing & publishing of network information
  
 NDEXBIO
  
@@ -448,12 +444,12 @@ https://www.simple-talk.com/sql/t-sql-programming/experiments-with-neo4j-using-a
 
 == Visualization ==
 
-'''R'''
+R
 
 https://www.youtube.com/watch?v=TGICEEL-OYI
 
 
-'''BioFabric'''	
+BioFabric
 
 http://www.biofabric.org/gallery/pages/SuperQuickBioFabric.html
 
@@ -461,7 +457,7 @@ https://github.com/wjrl/RBioFabric
  
 
 
-'''Hive Plots - rational network visualization'''
+Hive Plots - rational network visualization
 
 http://nbviewer.jupyter.org/github/ericmjl/hiveplot/blob/master/test/Tests.ipynb
 
@@ -492,12 +488,12 @@ https://seeingcomplexity.wordpress.com/2011/02/05/hive-plots-and-hairballs/
 http://www.wired.com/2013/11/wired-data-life-martin-krzywinski/
 
 
-''' W/ R:'''
+W/ R:
 
 https://cran.r-project.org/web/packages/HiveR/index.html
 
 
-'''- Martin Krzywinski, creator of Hive plots, on visualization in science:'''
+Martin Krzywinski, creator of Hive plots, on visualization in science:
 
 https://www.youtube.com/watch?v=mS8Q5_sZYH8
 
@@ -505,13 +501,12 @@ http://mkweb.bcgsc.ca/
 
 
 
-'Neo4R'
+Neo4R
 
 https://www.youtube.com/watch?v=ADzGdovNNE0
 
 
-
-'''Thoughts about'''
+Thoughts about
 
 https://visualisingadvocacy.org/blog/if-everything-network-nothing-network
 
@@ -523,11 +518,11 @@ http://stackoverflow.com/questions/28940780/a-telling-set-of-graph-statistics
 
 http://neo4j.com/docs/stable/query-aggregation.html
 
-'''+ py'''
++ py
 
 https://www.youtube.com/watch?v=Nkd6Ei-xuxI
 
-'''+ R'''
++ R
 
 https://www.youtube.com/watch?v=bdQ90y9Pefo
 
@@ -611,18 +606,8 @@ https://www.youtube.com/watch?v=1IPOIE0PvQY
 https://www.youtube.com/watch?v=NC-4lTXFfqE
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+ 
+ 
 === Researchers ===
 
 Peter Sloot:
@@ -651,8 +636,8 @@ http://web.media.mit.edu/~sandy/
 
 http://socialphysics.media.mit.edu/
 
-'''
-Mesoscale Structures in Networks'''
+
+Mesoscale Structures in Networks
 
 http://www.slideshare.net/masonporter/mesoscale-structures-in-networks-62116874
 
