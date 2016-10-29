@@ -3,11 +3,11 @@ NB's
 ```{r}
 P2:
 - Social (media) Big Data
-- Network analysis for detecting
-1 - Populations ((overlapping) community/cluster detection)
+- Network analysis for:
+1 - Detecting populations (+ (overlapping) communities / clusters)
 2 - Profiling
-3 - Sentiment & topics: bias discovery
-4 - Influencers & propagation
+3 - Sentiment & topics - bias detection
+4 - Finding influencers & propagation
 
 ```
 
