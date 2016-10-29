@@ -11,7 +11,7 @@ P2:
 
 ```
 
-General tools/stacks/ :
+General tools/stacks
 ```{r}
 
 Gelly, Flink’s graph-processing API and library, native support for iterations makes it a suitable platform for large-scale graph analytics:
@@ -30,9 +30,10 @@ http://snap.stanford.edu/
 A a graph computing framework for both graph databases (OLTP) and graph analytic systems (OLAP):
 http://tinkerpop.apache.org/
 
+```
 
 
-Data (+ tutorials):
+Data (+ tutorials)
 ```{r}
 
 3:
