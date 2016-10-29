@@ -1,0 +1,81 @@
+
+NB's
+```{r}
+P2:
+- Social (media) Big Data
+- Network analysis for detecting
+1 - Populations ((overlapping) community/cluster detection)
+2 - Profiling
+3 - Sentiment & topics: bias discovery
+4 - Influencers & propagation
+
+```
+
+General tools/stacks/ :
+```{r}
+
+Gelly, Flink’s graph-processing API and library, native support for iterations makes it a suitable platform for large-scale graph analytics:
+https://flink.apache.org/news/2015/08/24/introducing-flink-gelly.html
+
+An iterative graph processing system built for high scalability:
+("used at Facebook to analyze the social graph formed by users and their connections")
+giraph.apache.org 
+
+A Large-Scale Graph Processing System:
+http://infolab.stanford.edu/gps/
+
+Stanford Network Analysis Project:
+http://snap.stanford.edu/
+
+A a graph computing framework for both graph databases (OLTP) and graph analytic systems (OLAP):
+http://tinkerpop.apache.org/
+
+
+
+Data (+ tutorials):
+```{r}
+
+3:
+https://www.kaggle.com/crowdflower/twitter-airline-sentiment
+https://www.kaggle.com/benhamner/d/crowdflower/twitter-airline-sentiment/exploring-airline-twitter-sentiment-data
+
+4: 
+http://blog.kaggle.com/2016/06/03/dataset-spotlight-how-isis-uses-twitter/
+
+https://snap.stanford.edu/data/higgs-twitter.html
+
+
+General:
+http://kateto.net/polnet2016
+
+https://snap.stanford.edu/data/index.html
+http://followthehashtag.com/datasets/
+
+(Topology: http://twitter.mpi-sws.org/)
+
+
+```
+
+1 - Populations ((overlapping) community/cluster detection)
+```{r}
+
+
+```
+
+2 - Profiling
+```{r}
+
+
+```
+
+3 - Sentiment & topics: bias discovery
+```{r}
+
+
+```
+
+4 - Influencers & propagation
+```{r}
+
+
+```
