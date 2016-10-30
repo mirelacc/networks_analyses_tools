@@ -8,7 +8,6 @@ P2:
 2 - Profiling
 3 - Sentiment & topics - bias detection
 4 - Finding influencers & propagation
-
 ```
 
 ##### General tools/stacks
@@ -30,7 +29,8 @@ http://tinkerpop.apache.org/
 
 
 -> Gelly:
-Gelly, Flink’s graph-processing API and library, native support for iterations makes it a suitable platform for large-scale graph analytics:
+Gelly, Flink’s graph-processing API and library, 
+native support for iterations makes it a suitable platform for large-scale graph analytics:
 https://flink.apache.org/news/2015/08/24/introducing-flink-gelly.html
 
 -> FLink:
@@ -43,28 +43,8 @@ http://www.slideshare.net/sbaltagi/stepbystep-introduction-to-apache-flink
 FlinkML: Large-scale Machine Learning with Apache Flink:
 https://sics.app.box.com/s/044omad6200pchyh7ptbyxkwvcvaiowu
 
-
 ```
 
-
-##### Data (+ tutorials)
-```{r}
-
- 
-
-General:
-http://kateto.net/polnet2016
-
-https://snap.stanford.edu/data/index.html
-http://followthehashtag.com/datasets/
-
-(Topology: http://twitter.mpi-sws.org/)
-(other network related data: http://theodi.fbk.eu/openbigdata/#portfolioModal11
--> possibly interesting: use tele-communications dataset for making day-time population models)
-
-
-
-```
 
 
 ##### 1 - Populations ((overlapping) community/cluster detection)
@@ -113,12 +93,10 @@ Data/examples:
 http://blog.kaggle.com/2016/06/03/dataset-spotlight-how-isis-uses-twitter/
 https://snap.stanford.edu/data/higgs-twitter.html
 
-
 ```
 
 
-
-##### General resources:
+##### General resources / data / tutorials:
 ```{r}
 
 
@@ -131,6 +109,15 @@ http://juliasilge.com/blog/Tidy-Text-Mining/
 
 Network-metrics visualization:
 http://kateto.net/network-visualization
+
+http://kateto.net/polnet2016
+
+https://snap.stanford.edu/data/index.html
+http://followthehashtag.com/datasets/
+
+(Topology: http://twitter.mpi-sws.org/)
+(other network related data: http://theodi.fbk.eu/openbigdata/#portfolioModal11
+-> possibly interesting: use tele-communications dataset for making day-time population models)
 
 
 
