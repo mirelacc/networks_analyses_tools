@@ -130,9 +130,18 @@ http://infolab.stanford.edu/serf/
 ```{r}
 
 Data/examples:
+
 https://www.kaggle.com/crowdflower/twitter-airline-sentiment
 https://www.kaggle.com/benhamner/d/crowdflower/twitter-airline-sentiment/
 exploring-airline-twitter-sentiment-data
+
+
+Context / Graphing for topic discovery:
+
+femvestor.blogspot.nl/2016/10/why-you-should-care-about-context-when_20.html 
+femvestor.blogspot.nl/2016/07/brexit-what-can-we-learn-from-graphing.html
+
+
 
 NLP + ML:
 
