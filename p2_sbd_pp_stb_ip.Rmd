@@ -90,7 +90,8 @@ https://github.com/intel-hadoop/HiBench
 
 Data/examples:
 https://www.kaggle.com/crowdflower/twitter-airline-sentiment
-https://www.kaggle.com/benhamner/d/crowdflower/twitter-airline-sentiment/exploring-airline-twitter-sentiment-data
+https://www.kaggle.com/benhamner/d/crowdflower/twitter-airline-sentiment/
+exploring-airline-twitter-sentiment-data
 
 NLP
 
@@ -126,11 +127,12 @@ https://snap.stanford.edu/data/higgs-twitter.html
 
 Test idea:
 - grab 5-10 of biggest* news providers (NL) in twitter
-- grab 1-2 neutral/fact based news providers (cbs/? see: e.g. www.pewresearch.org/fact-tank/ + https://twitter.com/FactTank)
+- grab 1-2 neutral/fact based news providers (cbs/? see: e.g. www.pewresearch.org/fact-tank/ 
+  + https://twitter.com/FactTank)
 - measure:
 -- tweet frequency
 -- followers
--- # retweets
+-- number of retweets
 -- sentiment (general)
 -- topic bias (1 - proportion of specific topics mentioned / not mentioned, 2 - bias in sentiment towards topiccs)
 -- propagation (1 - centrality measures, 2 - reach, 3 - part of # clusters)
