@@ -76,11 +76,45 @@ https://github.com/intel-hadoop/HiBench
 ##### 1 - Populations ((overlapping) community/cluster detection)
 ```{r}
 
+Overlapping & non-overlapping clusters/communities
+
+K-clique algorithm:
+(+ mixed-membership stochastic block models, Airoldi et al. -> prodability distribution
+of community memberships, for every pair of communities you know the background linking probability for that pair)
+
+Discovering communities:
+1 - take dataset, 2 - represent as graph, 3 - identify communities (or clusters), 4 - interpret clusters as real communities. 
+Look at ground-truth, true latent clusters
+Find networks with labels for clusters ahead of time:
+Scientific collaborations: journals as research areas
+Social networks: groups, lists
+Information networks: topic based groups
+A node can be a member of 0 or more group
+[…]
+
+"Guaranteed Learning of Latent Variable Models: Overlapping Community Models and Overcomplete Representations
+
+Incorporating latent or hidden variables is a crucial aspect of statistical modeling. I will present a statistical and a computational framework for guaranteed learning of a wide range of latent variable models. I will focus on two instances, viz., community detection and overcomplete representations.
+The goal of community detection is to discover hidden communities from graph data. I will present a tensor decomposition approach for learning probabilistic mixed membership models. The tensor approach is guaranteed to correctly recover the mixed membership communities with tight guarantees. We have deployed it on many real-world networks, e.g. Facebook, Yelp and DBLP. It is easily parallelizable, and is orders of magnitude faster than the state-of-art stochastic variational approach."
+
+https://www.youtube.com/watch?v=7BKsmmxDq6Y
+
+
+
+Mining Large Graphs:
+http://slideplayer.com/slide/4741541/
 
 ```
 
 ##### 2 - Profiling
 ```{r}
+
+Part of entity resolution, collective classification, and to a degree link prediction:
+https://www.youtube.com/watch?v=-sccHBewf5Q
+https://www.youtube.com/watch?v=fEY0MUC8ND0
+https://www.youtube.com/watch?v=YsQEg6OroiQ
+
+http://infolab.stanford.edu/serf/
 
 
 ```
