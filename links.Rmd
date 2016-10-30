@@ -111,50 +111,11 @@ Community detection:
 
 - Girvan-Newman betweenness centrality
 
-Overlapping & non-overlapping clusters/communities
-
-- k-clique algorithm
-(+ mixed-membership stochastic block models, Airoldi et al. -> prodability distribution
-of community memberships, for every pair of communities you know the background linking probability for that pair)
-
-Discover communities:
-
-1 - take dataset
-
-2 - represent as graph
-
-3 - identify communities (or clusters)
-
-4 - interpret clusters as real communities
-
-Look at ground-truth, true latent clusters
-
-Find networks with labels for clusters ahead of time:
-
-Scientific collaborations: journals as research areas
-
-Social networks: groups, lists
-
-Information networks: topic based groups
-
-A node can be a member of 0 or more group
-[…]
-
- 
 http://engineering.stanford.edu/news/big-questions-big-data-stanfords-jure-leskovec
 
 Supervised Random Walks: Predicting and Recommending Links in Social Networks
 
 https://webcache.googleusercontent.com/search?q=cache:1Gd3na9sy5EJ:https://arxiv.org/pdf/1011.4071+&cd=10&hl=en&ct=clnk&gl=nl
- 
-
-Guaranteed Learning of Latent Variable Models: Overlapping Community Models and Overcomplete Representations
-
-Incorporating latent or hidden variables is a crucial aspect of statistical modeling. I will present a statistical and a computational framework for guaranteed learning of a wide range of latent variable models. I will focus on two instances, viz., community detection and overcomplete representations.
-
-The goal of community detection is to discover hidden communities from graph data. I will present a tensor decomposition approach for learning probabilistic mixed membership models. The tensor approach is guaranteed to correctly recover the mixed membership communities with tight guarantees. We have deployed it on many real-world networks, e.g. Facebook, Yelp and DBLP. It is easily parallelizable, and is orders of magnitude faster than the state-of-art stochastic variational approach.
-
-https://www.youtube.com/watch?v=7BKsmmxDq6Y
 
 w/ Gephi
 
@@ -181,9 +142,6 @@ http://blog.acolyer.org/2016/02/10/how-complex-systems-fail/
 http://en.wikipedia.org/wiki/Complex_systems
 
 
-== Mining Large Graphs ==
-
-http://slideplayer.com/slide/4741541/#download
 
 Multiplicative Attribute Graph Model of Real-World Networks
 What is a mathematically tractable model that naturally captures ways in which the network structure and node attributes interact? What are the properties of networks that arise under such a model? We present a model of network structure that we refer to as the multiplicative attribute graphs (MAG) model. 
