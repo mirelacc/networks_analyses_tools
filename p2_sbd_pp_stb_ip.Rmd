@@ -67,6 +67,9 @@ https://snap.stanford.edu/data/index.html
 http://followthehashtag.com/datasets/
 
 (Topology: http://twitter.mpi-sws.org/)
+(other network related data: http://theodi.fbk.eu/openbigdata/#portfolioModal11
+-> possibly interesting: use tele-communications dataset for making day-time population models)
+
 
 
 ```
