@@ -43,6 +43,32 @@ http://www.slideshare.net/sbaltagi/stepbystep-introduction-to-apache-flink
 FlinkML: Large-scale Machine Learning with Apache Flink:
 https://sics.app.box.com/s/044omad6200pchyh7ptbyxkwvcvaiowu
 
+
+
+http://tvas.me/conferences/2016/09/01/KDD-2016-Highlights.html
+
+http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=58111
+
+Tidy text mining:
+http://juliasilge.com/blog/Tidy-Text-Mining/
+
+Network-metrics visualization:
+http://kateto.net/network-visualization
+
+http://kateto.net/polnet2016
+
+https://snap.stanford.edu/data/index.html
+http://followthehashtag.com/datasets/
+
+(Topology: http://twitter.mpi-sws.org/)
+(other network related data: http://theodi.fbk.eu/openbigdata/#portfolioModal11
+-> possibly interesting: use tele-communications dataset for making day-time population models)
+
+Streaming:
+www.slideshare.net/HuafengWang/functional-comparison-and-performance-evaluation-of-streaming-frameworks 
+Benchmark:
+https://github.com/intel-hadoop/HiBench
+
 ```
 
 
@@ -81,7 +107,6 @@ http://cs224d.stanford.edu/assignment2/
 -- Hybrid: 
 rule-based + statistical methods:
 http://dataconomy.com/ai-language-understanding/
- 
 
 
 ```
@@ -92,34 +117,6 @@ http://dataconomy.com/ai-language-understanding/
 Data/examples:
 http://blog.kaggle.com/2016/06/03/dataset-spotlight-how-isis-uses-twitter/
 https://snap.stanford.edu/data/higgs-twitter.html
-
-```
-
-
-##### General resources / data / tutorials:
-```{r}
-
-
-http://tvas.me/conferences/2016/09/01/KDD-2016-Highlights.html
-
-http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=58111
-
-Tidy text mining:
-http://juliasilge.com/blog/Tidy-Text-Mining/
-
-Network-metrics visualization:
-http://kateto.net/network-visualization
-
-http://kateto.net/polnet2016
-
-https://snap.stanford.edu/data/index.html
-http://followthehashtag.com/datasets/
-
-(Topology: http://twitter.mpi-sws.org/)
-(other network related data: http://theodi.fbk.eu/openbigdata/#portfolioModal11
--> possibly interesting: use tele-communications dataset for making day-time population models)
-
-
 
 ```
 
