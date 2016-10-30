@@ -50,15 +50,7 @@ https://sics.app.box.com/s/044omad6200pchyh7ptbyxkwvcvaiowu
 ##### Data (+ tutorials)
 ```{r}
 
-3:
-https://www.kaggle.com/crowdflower/twitter-airline-sentiment
-https://www.kaggle.com/benhamner/d/crowdflower/twitter-airline-sentiment/exploring-airline-twitter-sentiment-data
-
-4: 
-http://blog.kaggle.com/2016/06/03/dataset-spotlight-how-isis-uses-twitter/
-
-https://snap.stanford.edu/data/higgs-twitter.html
-
+ 
 
 General:
 http://kateto.net/polnet2016
@@ -90,9 +82,24 @@ http://followthehashtag.com/datasets/
 ##### 3 - Sentiment & topics: bias discovery
 ```{r}
 
--- NLP
+Data/examples:
+https://www.kaggle.com/crowdflower/twitter-airline-sentiment
+https://www.kaggle.com/benhamner/d/crowdflower/twitter-airline-sentiment/exploring-airline-twitter-sentiment-data
 
-Hybrid: rule-based + statistical methods:
+NLP
+
+Tensorflow:
+https://explosion.ai/blog/syntaxnet-in-context
+
+Tensorflow + CNN's
+http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/
+
+Tensorflow + RNN's
+http://cs224d.stanford.edu/assignment2/
+
+
+-- Hybrid: 
+rule-based + statistical methods:
 http://dataconomy.com/ai-language-understanding/
  
 
@@ -101,6 +108,10 @@ http://dataconomy.com/ai-language-understanding/
 
 ##### 4 - Influencers & propagation
 ```{r}
+
+Data/examples:
+http://blog.kaggle.com/2016/06/03/dataset-spotlight-how-isis-uses-twitter/
+https://snap.stanford.edu/data/higgs-twitter.html
 
 
 ```
@@ -114,6 +125,13 @@ http://dataconomy.com/ai-language-understanding/
 http://tvas.me/conferences/2016/09/01/KDD-2016-Highlights.html
 
 http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=58111
+
+Tidy text mining:
+http://juliasilge.com/blog/Tidy-Text-Mining/
+
+Network-metrics visualization:
+http://kateto.net/network-visualization
+
 
 
 ```
