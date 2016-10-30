@@ -96,12 +96,17 @@ NLP
 
 Tensorflow:
 https://explosion.ai/blog/syntaxnet-in-context
+jrmeyer.github.io/tutorial/2016/02/01/TensorFlow-Tutorial.html (!)
+
 
 Tensorflow + CNN's
 http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/
 
 Tensorflow + RNN's
 http://cs224d.stanford.edu/assignment2/
+
+Tensorflow + binary classification:
+http://jrmeyer.github.io/tutorial/2016/02/01/TensorFlow-Tutorial.html
 
 
 -- Hybrid: 
@@ -117,6 +122,20 @@ http://dataconomy.com/ai-language-understanding/
 Data/examples:
 http://blog.kaggle.com/2016/06/03/dataset-spotlight-how-isis-uses-twitter/
 https://snap.stanford.edu/data/higgs-twitter.html
+
+
+Test idea:
+- grab 5-10 of biggest* news providers (NL) in twitter
+- grab 1-2 neutral/fact based news providers (cbs/? see: e.g. www.pewresearch.org/fact-tank/ + https://twitter.com/FactTank)
+- measure:
+-- tweet frequency
+-- followers
+-- # retweets
+-- sentiment (general)
+-- topic bias (1 - proportion of specific topics mentioned / not mentioned, 2 - bias in sentiment towards topiccs)
+-- propagation (1 - centrality measures, 2 - reach, 3 - part of # clusters)
+
+
 
 ```
 
