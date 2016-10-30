@@ -134,7 +134,8 @@ Test idea:
 -- followers
 -- number of retweets
 -- sentiment (general)
--- topic bias (1 - proportion of specific topics mentioned / not mentioned, 2 - bias in sentiment towards topiccs)
+-- topic bias (1 - proportion of specific topics mentioned / not mentioned, 
+   2 - bias in sentiment towards topiccs)
 -- propagation (1 - centrality measures, 2 - reach, 3 - part of # clusters)
 
 
