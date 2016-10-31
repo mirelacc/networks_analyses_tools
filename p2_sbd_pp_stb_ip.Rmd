@@ -95,21 +95,31 @@ A node can be a member of 0 or more group
 "Guaranteed Learning of Latent Variable Models: Overlapping Community Models and Overcomplete Representations
 
 Incorporating latent or hidden variables is a crucial aspect of statistical modeling. 
-I will present a statistical and a computational framework for guaranteed learning of a wide range of latent variable models. 
-I will focus on two instances, viz., community detection and overcomplete representations.
-The goal of community detection is to discover hidden communities from graph data. 
-I will present a tensor decomposition approach for learning probabilistic mixed membership models. 
-The tensor approach is guaranteed to correctly recover the mixed membership communities with tight guarantees. 
-We have deployed it on many real-world networks, e.g. Facebook, Yelp and DBLP. 
-It is easily parallelizable, and is orders of magnitude faster than the state-of-art stochastic variational approach."
+I will present a statistical and a computational framework for guaranteed learning of a wide range of latent variable models. I will focus on two instances, viz., community detection and overcomplete representations.
+The goal of community detection is to discover hidden communities from graph data. I will present a tensor decomposition approach for learning probabilistic mixed membership models. The tensor approach is guaranteed to correctly recover the mixed membership communities with tight guarantees. We have deployed it on many real-world networks, e.g. Facebook, Yelp and DBLP. It is easily parallelizable, and is orders of magnitude faster than the state-of-art stochastic variational approach."
 
 https://www.youtube.com/watch?v=7BKsmmxDq6Y
-
 
 +
 
 Mining Large Graphs:
 http://slideplayer.com/slide/4741541/
+
+Affiliation Network Models for Densely Overlapping Communities in Networks
+Jure Leskovec, Stanford University
+
+Networks are a general language for describing social, tech- nological and biological systems. Nodes in such networks organize into densely linked and overlapping clusters that correspond to communities in social networks, functionally related proteins in biological networks, or topically related webpages in information networks. Identifying such clusters is crucial to the understanding of the structural and func- tional roles of networks.
+
+https://www.youtube.com/watch?v=htWQWN1xAZQ
+
+
+A.O.:
+Community detection:
+- Granovetter: small-worlds, strong & weak ties
+- Girvan-Newman betweenness centrality
+
+http://engineering.stanford.edu/news/big-questions-big-data-stanfords-jure-leskovec
+
 
 ```
 
