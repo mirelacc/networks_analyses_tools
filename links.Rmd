@@ -93,25 +93,6 @@ https://gist.github.com/jexp/c643d1694d0967ea395c4574e720058c
 
 http://numergent.com/2015-05/Tropology-performance-PostgreSQL-vs-Neo4j.html
 
-=== Detecting clusters / communities ===
-
-Affiliation Network Models for Densely Overlapping Communities in Networks
-
-Jure Leskovec, Stanford University
-
-Networks are a general language for describing social, tech- nological and biological systems. Nodes in such networks organize into densely linked and overlapping clusters that correspond to communities in social networks, functionally related proteins in biological networks, or topically related webpages in information networks. Identifying such clusters is crucial to the understanding of the structural and func- tional roles of networks.
-
-https://www.youtube.com/watch?v=htWQWN1xAZQ
-
-A.O.:
-
-Community detection: 
-
-- Granovetter: small-worlds, strong & weak ties
-
-- Girvan-Newman betweenness centrality
-
-http://engineering.stanford.edu/news/big-questions-big-data-stanfords-jure-leskovec
 
 Supervised Random Walks: Predicting and Recommending Links in Social Networks
 
