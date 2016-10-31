@@ -199,7 +199,8 @@ http://www.kdnuggets.com/2016/09/trump-phenomenon-twitter-based-recount.html
 http://www.kdnuggets.com/2015/10/aspect-based-sentiment-analysis-competition.html
 
 
-
+Context Matters When Text Mining
+ 
 http://femvestor.blogspot.nl/2016/10/why-you-should-care-about-context-when_20.html
 
 ```
