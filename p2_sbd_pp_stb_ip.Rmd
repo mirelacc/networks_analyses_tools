@@ -7,6 +7,7 @@ P2:
 1 - Detecting populations (+ (overlapping) communities / clusters)
 2 - Profiling
 3 - Finding influencers & propagation
+4 - Data
 ```
 
 ##### General tools/stacks
@@ -185,7 +186,7 @@ http://www-personal.umich.edu/~mejn/courses/2015/cscs535/index.html
 http://math.nist.gov/~RPozo/complex_datasets.html
 
 
-Barbasi:
+Barbassi:
 http://www3.nd.edu/~networks/resources.htm
 
 
