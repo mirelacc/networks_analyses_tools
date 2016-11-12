@@ -12,7 +12,6 @@ P2:
 ##### General tools/stacks
 ```{r}
 
-
 An iterative graph processing system built for high scalability:
 ("used at Facebook to analyze the social graph formed by users and their connections")
 giraph.apache.org 
@@ -26,13 +25,12 @@ http://snap.stanford.edu/
 A a graph computing framework for both graph databases (OLTP) and graph analytic systems (OLAP):
 http://tinkerpop.apache.org/
 
-
 -> Gelly:
 Gelly, Flink’s graph-processing API and library, 
 native support for iterations makes it a suitable platform for large-scale graph analytics:
 https://flink.apache.org/news/2015/08/24/introducing-flink-gelly.html
 
--> FLink:
+-> Flink:
 http://data-artisans.com/robust-stream-processing-flink-walkthrough/
 
 http://www.slideshare.net/sbaltagi/presentations
@@ -42,10 +40,7 @@ http://www.slideshare.net/sbaltagi/stepbystep-introduction-to-apache-flink
 FlinkML: Large-scale Machine Learning with Apache Flink:
 https://sics.app.box.com/s/044omad6200pchyh7ptbyxkwvcvaiowu
 
-
-
 http://tvas.me/conferences/2016/09/01/KDD-2016-Highlights.html
-
 http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=58111
 
 Tidy text mining:
@@ -71,7 +66,6 @@ https://github.com/intel-hadoop/HiBench
 ```
 
 
-
 ##### 1 - Populations ((overlapping) community/cluster detection)
 ```{r}
 
@@ -94,7 +88,6 @@ A node can be a member of 0 or more group
 […]
 
 "Guaranteed Learning of Latent Variable Models: Overlapping Community Models and Overcomplete Representations
-
 Incorporating latent or hidden variables is a crucial aspect of statistical modeling. 
 I will present a statistical and a computational framework for guaranteed learning of 
 a wide range of latent variable models. I will focus on two instances, viz., 
@@ -131,7 +124,6 @@ Community detection:
 
 http://engineering.stanford.edu/news/big-questions-big-data-stanfords-jure-leskovec
 
-
 ```
 
 ##### 2 - Profiling
@@ -145,9 +137,7 @@ https://www.youtube.com/watch?v=YsQEg6OroiQ
 
 http://infolab.stanford.edu/serf/
 
-
 ```
-
 
 
 ##### 3 - Influencers & propagation
@@ -156,7 +146,6 @@ http://infolab.stanford.edu/serf/
 Data/examples:
 http://blog.kaggle.com/2016/06/03/dataset-spotlight-how-isis-uses-twitter/
 https://snap.stanford.edu/data/higgs-twitter.html
-
 
 Test idea:
 - grab 5-10 of biggest* news providers (NL) in twitter
@@ -171,7 +160,20 @@ Test idea:
    2 - bias in sentiment towards topiccs)
 -- propagation (1 - centrality measures, 2 - reach, 3 - membership of ammount of clusters)
 
- 
+```
+
+
+##### 4 - Data:
+```{r}
+
+http://vlado.fmf.uni-lj.si/pub/networks/data/ 
+http://vlado.fmf.uni-lj.si/pub/networks/data/mix/mixed.htm
+
+Barbasi:
+http://www3.nd.edu/~networks/resources.htm
 
 
 
+
+
+```
