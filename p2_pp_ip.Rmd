@@ -1,17 +1,15 @@
 
 ##### NB's
-```{r}
+
 P2:
 - Social (media) Big Data
 - Network analysis for:
 1 - Detecting populations (+ (overlapping) communities / clusters)
 2 - Profiling
 3 - Finding influencers & propagation
-4 - Data
-```
+
 
 ##### General tools/stacks
-```{r}
 
 An iterative graph processing system built for high scalability:
 ("used at Facebook to analyze the social graph formed by users and their connections")
@@ -64,11 +62,8 @@ www.slideshare.net/HuafengWang/functional-comparison-and-performance-evaluation-
 Benchmark:
 https://github.com/intel-hadoop/HiBench
 
-```
-
 
 ##### 1 - Populations ((overlapping) community/cluster detection)
-```{r}
 
 Overlapping & non-overlapping clusters/communities
 
@@ -125,10 +120,8 @@ Community detection:
 
 http://engineering.stanford.edu/news/big-questions-big-data-stanfords-jure-leskovec
 
-```
 
 ##### 2 - Profiling
-```{r}
 
 Part of entity resolution, collective classification, and to a degree link prediction:
 
@@ -138,11 +131,11 @@ https://www.youtube.com/watch?v=YsQEg6OroiQ
 
 http://infolab.stanford.edu/serf/
 
-```
+ 
 
 
 ##### 3 - Influencers & propagation
-```{r}
+ 
 
 Data/examples:
 http://blog.kaggle.com/2016/06/03/dataset-spotlight-how-isis-uses-twitter/
@@ -161,35 +154,4 @@ Test idea:
    2 - bias in sentiment towards topiccs)
 -- propagation (1 - centrality measures, 2 - reach, 3 - membership of ammount of clusters)
 
-```
-
-
-##### 4 - Data:
-```{r}
-
-[edit!]
-https://github.com/gephi/gephi/wiki/Datasets
-deim.urv.cat/~alexandre.arenas/data/welcome.htm 
-http://vlado.fmf.uni-lj.si/pub/networks/data/ 
-http://vlado.fmf.uni-lj.si/pub/networks/data/mix/mixed.htm
-http://vlado.fmf.uni-lj.si/pub/networks/data/ucinet/ucidata.htm
-http://vlado.fmf.uni-lj.si/pub/networks/data/soc/Samo/Stranke94.htm
-cdg.columbia.edu/cdg/datasets 
-www3.nd.edu/~networks/Publication Categories/publications.htm#anchor-Social0002 
-https://networkdata.ics.uci.edu/getting_started.php
-https://networkdata.ics.uci.edu/resources.php
-web.stanford.edu/group/sonia/dataSources/index.html 
-http://www.trustlet.org/epinions.html
-https://del.icio.us/jhofman/networks+data 
-http://www-personal.umich.edu/~mejn/netdata/ 
-http://www-personal.umich.edu/~mejn/courses/2015/cscs535/index.html
-http://math.nist.gov/~RPozo/complex_datasets.html
-
-
-Barbassi:
-http://www3.nd.edu/~networks/resources.htm
-
-
-
-
-```
+ 
