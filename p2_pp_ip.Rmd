@@ -2,14 +2,13 @@
 ##### NB's
 
 P2:
-- Social (media) Big Data
-- Network analysis for:
+- Social (media) Big Data, network analysis for:
 1 - Detecting populations (+ (overlapping) communities / clusters)
 2 - Profiling
 3 - Finding influencers & propagation
 
 
-##### General tools/stacks
+## - General tools/stacks
 
 An iterative graph processing system built for high scalability:
 ("used at Facebook to analyze the social graph formed by users and their connections")
@@ -61,6 +60,18 @@ Streaming:
 www.slideshare.net/HuafengWang/functional-comparison-and-performance-evaluation-of-streaming-frameworks 
 Benchmark:
 https://github.com/intel-hadoop/HiBench
+
+
+##### 0 - Setup:
+
+Using data about the propagation of the Higgs discovery to find populations as well as propagaion.
+Source: http://snap.stanford.edu/data/higgs-twitter.html
+
+1 - re-tweeting (retweet network)
+2 - replying (reply network) to existing tweets
+3 - mentioning (mention network) other users
+4 - friends/followers social relationships among user involved in the above activities
+5 - information about activity on Twitter during the discovery of Higgs boson
 
 
 ##### 1 - Populations ((overlapping) community/cluster detection)
