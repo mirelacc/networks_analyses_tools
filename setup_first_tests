@@ -1,6 +1,7 @@
 
 
 - What communities can be discovered using Twitter within NL?
+- 
 - Which methods can be used for profiling/entity resolution with this data, and what results to they give?
 - What can be said about the relationship of network-structure and information-flow? Does this differ from other research 
 in a related field?
@@ -13,6 +14,7 @@ persons, companies, etc.?
 - Using these metrics and having a sense of propagation, can anything preliminary be said about influential nodes and 
 their broadcasted content?
 - Is it possible to predict sentiment, and even big social events? Can this be tested with upcoming events?
+-
 
 
 ## 1 - Discovering communities / populations / clusters
@@ -133,19 +135,26 @@ Test idea:
 -- propagation (1 - centrality measures, 2 - reach, 3 - membership of ammount of clusters)
 
 
+## 4 - Compare predictive value of content within a community(setting) vs. network-structure
+
+"[...] we find changes in network structure predict shifts in cognitive and affective processes, execution of new transactions, 
+and local optimality of transactions better than prices, revealing the important predictive relationship between network 
+structure and collective behavior within a social network."
+https://www.kellogg.northwestern.edu/faculty/uzzi/htm/papers/Social%20Networks%20Under%20Stress%20-%20Jan2016.pdf 
 
 
-## 4 - Discovering most frequent topics + sentiment used by 1) communities, 2) individuals
+
+## 5 - Discovering most frequent topics + sentiment used by 1) communities, 2) individuals
 
 - Use ABSA in relation to clusters, and individuals.
 
 
 
-## 5 - Discovering overlap w/in 1-4
+## 6 - Discovering overlap between some of the above
 
 
 
-## 6 - Mining:
+## 7 - Mining:
 
 http://www.slideshare.net/drewconway/mining-social-graph-data
 
