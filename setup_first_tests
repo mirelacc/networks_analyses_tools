@@ -1,6 +1,21 @@
 
-## 1 - Discovering communities / populations / clusters
 
+- What communities can be discovered using Twitter within NL?
+- Which methods can be used for profiling/entity resolution with this data, and what results to they give?
+- What can be said about the relationship of network-structure and information-flow? Does this differ from other research 
+in a related field?
+- What key-nodes can be discovered? Are these persons, organisations, companies, etc.?
+- What topics can be discovered? How do these relate to 
+1) the according sentiment, and 
+2) the propagation of the respective Tweets?
+- What is the proportion of key-nodes that broadcast content actually a newsmedia-related user, and what proportion are
+persons, companies, etc.?
+- Using these metrics and having a sense of propagation, can anything preliminary be said about influential nodes and 
+their broadcasted content?
+- Is it possible to predict sentiment, and even big social events? Can this be tested with upcoming events?
+
+
+## 1 - Discovering communities / populations / clusters
 
 Overlapping & non-overlapping clusters/communities
 
@@ -58,8 +73,6 @@ Community detection:
 http://engineering.stanford.edu/news/big-questions-big-data-stanfords-jure-leskovec
 
 
-
-
 ## 2 - Discovering individuals (profiling)
 
 Part of entity resolution, collective classification, and to a degree link prediction:
@@ -71,9 +84,6 @@ https://www.youtube.com/watch?v=YsQEg6OroiQ
 http://infolab.stanford.edu/serf/
 
  
-
-
-
 
 ## 3 - Discovering propagation
 
