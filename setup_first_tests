@@ -1,11 +1,14 @@
 
-
+Communities:
 - What communities can be discovered using Twitter within NL?
-- 
+- What relationship can be found between communities and network-metrics?
+
+Profiling:
 - Which methods can be used for profiling/entity resolution with this data, and what results to they give?
-- What can be said about the relationship of network-structure and information-flow? Does this differ from other research 
-in a related field?
 - What key-nodes can be discovered? Are these persons, organisations, companies, etc.?
+
+Information-flow , topics + sentiment::
+- What can be said about the relationship of network-structure and information-flow? Does this differ from other research in a related field?
 - What topics can be discovered? How do these relate to 
 1) the according sentiment, and 
 2) the propagation of the respective Tweets?
@@ -14,7 +17,32 @@ persons, companies, etc.?
 - Using these metrics and having a sense of propagation, can anything preliminary be said about influential nodes and 
 their broadcasted content?
 - Is it possible to predict sentiment, and even big social events? Can this be tested with upcoming events?
--
+
+
+## 0 - Setup & first tests:
+
+https://www.cs.cornell.edu/home/kleinber/
+
+SNAP overview:
+https://arxiv.org/pdf/1606.07550.pdf
+
+Setup:
+https://snap.stanford.edu/snappy/index.html#download
+https://snap.stanford.edu/snappy/release/
+http://snap.stanford.edu/proj/snap-www/
+https://snap.stanford.edu/snappy/doc/index.html
+https://snap.stanford.edu/snappy/index.html#docs
+https://snap.stanford.edu/snappy/doc/tutorial/index-tut.html
+https://snap.stanford.edu/snappy/doc/tutorial/tutorial.html#computing-structural-properties
+
+# http://snap.stanford.edu/snap/doc/snapuser-ref/
+http://snap.stanford.edu/snap/doc/snapuser-ref/index.html
+
+https://snap.stanford.edu/snappy/doc/reference/index-ref.html
+
+
+Metrics:
+https://snap.stanford.edu/snappy/doc/tutorial/tutorial.html#computing-structural-properties
 
 
 ## 1 - Discovering communities / populations / clusters
@@ -22,20 +50,15 @@ their broadcasted content?
 Overlapping & non-overlapping clusters/communities
 
 K-clique algorithm:
-(+ mixed-membership stochastic block models, Airoldi et al. -> prodability distribution
-of community memberships, for every pair of communities you know the 
-background linking probability for that pair)
+(+ mixed-membership stochastic block models, Airoldi et al. -> prodability distribution of community memberships, for every pair of 
+communities you know the background linking probability for that pair)
 
 Discovering communities:
 1 - take dataset, 2 - represent as graph, 3 - identify communities (or clusters), 
 4 - interpret clusters as real communities. 
-Look at ground-truth, true latent clusters
-Find networks with labels for clusters ahead of time:
-Scientific collaborations: journals as research areas
-Social networks: groups, lists
-Information networks: topic based groups
-A node can be a member of 0 or more group
-[…]
+Look at ground-truth, true latent clusters. Find networks with labels for clusters ahead of time:
+Scientific collaborations: journals as research areas. Social networks: groups, lists. 
+Information networks: topic based groups. A node can be a member of 0 or more group […]
 
 "Guaranteed Learning of Latent Variable Models: Overlapping Community Models and Overcomplete Representations
 Incorporating latent or hidden variables is a crucial aspect of statistical modeling. 
@@ -58,13 +81,11 @@ http://slideplayer.com/slide/4741541/
 Affiliation Network Models for Densely Overlapping Communities in Networks
 Jure Leskovec, Stanford University
 
-Networks are a general language for describing social, tech- nological and biological systems. 
-Nodes in such networks organize into densely linked and overlapping clusters that correspond to 
-communities in social networks, functionally related proteins in biological networks, or topically 
-related webpages in information networks. Identifying such clusters is crucial to the understanding 
-of the structural and func- tional roles of networks.
-
-https://www.youtube.com/watch?v=htWQWN1xAZQ
+Networks are a general language for describing social, tech- nological and biological systems. Nodes in such networks organize 
+into densely linked and overlapping clusters that correspond to communities in social networks, functionally related proteins 
+in biological networks, or topically related webpages in information networks. Identifying such clusters is crucial to the 
+understanding of the structural and func- tional roles of networks.
+-> https://www.youtube.com/watch?v=htWQWN1xAZQ
 
 
 A.O.:
@@ -86,10 +107,9 @@ https://www.youtube.com/watch?v=YsQEg6OroiQ
 http://infolab.stanford.edu/serf/
 
  
-
 ## 3 - Discovering propagation
 
-3a: General propagation:
+3a: Propagation in social media:
 
 Using data about the propagation of the Higgs discovery to find populations as well as propagaion.
 Source: http://snap.stanford.edu/data/higgs-twitter.html
@@ -100,6 +120,8 @@ Source: http://snap.stanford.edu/data/higgs-twitter.html
 4 - friends/followers social relationships among user involved in the above activities
 5 - information about activity on Twitter during the discovery of Higgs boson
 
+Maximizing the Spread of Influence through a Social Network
+http://www.cims.nyu.edu/~regev/toc/articles/v011a004/v011a004.pdf
 
 3b: Influencers:
 
