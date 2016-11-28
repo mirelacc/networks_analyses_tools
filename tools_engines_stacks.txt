@@ -3,6 +3,8 @@ GDB's:
 https://www.linkedin.com/groups/2552968 
 http://orientdb.com/live-webinar-orientdb-vs-neo4j/
 
+https://arxiv.org/abs/1606.07550
+http://parco.iti.kit.edu/staudt/attachments/publications/NetworKit.pdf
 
 ## - General tools/stacks
 
