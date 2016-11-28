@@ -1,4 +1,9 @@
 
+GDB's:
+https://www.linkedin.com/groups/2552968 
+http://orientdb.com/live-webinar-orientdb-vs-neo4j/
+
+
 ## - General tools/stacks
 
 An iterative graph processing system built for high scalability:
@@ -55,6 +60,22 @@ www.slideshare.net/HuafengWang/functional-comparison-and-performance-evaluation-
 
 Benchmark:
 https://github.com/intel-hadoop/HiBench
+
+
+
+## - Peripheral:
+
+A Central Dogma For Testing And Training
+
+https://www.linkedin.com/pulse/central-dogma-testing-training-paul-houle
+
+http://ontology2.com/the-book/source-code-transclusion-in-html.html
+
+
+
+
+
+
 
 
 
