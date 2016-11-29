@@ -3,7 +3,7 @@
 
 https://www.cs.cornell.edu/home/kleinber/
 
-SNAP overview:q
+SNAP overview:
 https://arxiv.org/pdf/1606.07550.pdf
 
 Setup:
