@@ -3,7 +3,7 @@
 
 https://www.cs.cornell.edu/home/kleinber/
 
-SNAP overview:
+SNAP overview:q
 https://arxiv.org/pdf/1606.07550.pdf
 
 Setup:
@@ -19,12 +19,10 @@ https://snap.stanford.edu/snappy/doc/tutorial/tutorial.html#computing-structural
 # http://snap.stanford.edu/snap/doc/snapuser-ref/
 http://snap.stanford.edu/snap/doc/snapuser-ref/index.html
  
-
 Metrics:
 
 https://snap.stanford.edu/snappy/doc/reference/index-ref.html
 https://snap.stanford.edu/snappy/doc/tutorial/tutorial.html#computing-structural-properties
-
 
 
 ## 1 - Discovering communities / populations / clusters
