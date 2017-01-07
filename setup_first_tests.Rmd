@@ -16,7 +16,7 @@ https://snap.stanford.edu/snappy/index.html#docs
 https://snap.stanford.edu/snappy/doc/tutorial/index-tut.html
 https://snap.stanford.edu/snappy/doc/tutorial/tutorial.html#computing-structural-properties
 
-# http://snap.stanford.edu/snap/doc/snapuser-ref/
+http://snap.stanford.edu/snap/doc/snapuser-ref/
 http://snap.stanford.edu/snap/doc/snapuser-ref/index.html
  
 Metrics:
