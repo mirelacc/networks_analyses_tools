@@ -18,6 +18,8 @@ https://www.quora.com/search?q=Probabilistic+soft+logic
 
 https://github.com/linqs/psl/wiki/Developing-PSL 
 
+http://psl.linqs.org/
+
 https://github.com/linqs/psl 
 
 http://linqs.cs.umd.edu/basilic/web/Publications/2014/bach:dssg14/
