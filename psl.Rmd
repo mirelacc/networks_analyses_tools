@@ -12,7 +12,9 @@ https://www.youtube.com/watch?v=YsQEg6OroiQ
 
 https://www.youtube.com/watch?v=EIe-JBE8kRg&list=PLvdms0QyJYgxYA2O6bBBa918PLZE9h8Ie
 
++
 
+https://www.quora.com/search?q=Probabilistic+soft+logic
 
 https://github.com/linqs/psl/wiki/Developing-PSL 
 
