@@ -1,0 +1,22 @@
+
+## Networks + probabilities + logic: Probabilistic soft logic
+
+Great for AI, analysing graphs/networks, and any richly structured big data:
+
+
+https://www.youtube.com/watch?v=fEY0MUC8ND0
+
+https://www.youtube.com/watch?v=v7WjCVYoxtQ
+
+https://www.youtube.com/watch?v=YsQEg6OroiQ
+
+https://www.youtube.com/watch?v=EIe-JBE8kRg&list=PLvdms0QyJYgxYA2O6bBBa918PLZE9h8Ie
+
+
+
+https://github.com/linqs/psl/wiki/Developing-PSL 
+
+https://github.com/linqs/psl 
+
+http://linqs.cs.umd.edu/basilic/web/Publications/2014/bach:dssg14/
+
