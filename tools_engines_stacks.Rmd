@@ -1,39 +1,52 @@
 
 GDB's:
 https://www.linkedin.com/groups/2552968 
+
+https://www.linkedin.com/groups/3110443
+
 http://orientdb.com/live-webinar-orientdb-vs-neo4j/
 
 https://arxiv.org/abs/1606.07550
+
 http://parco.iti.kit.edu/staudt/attachments/publications/NetworKit.pdf
 
 ## - General tools/stacks
 
 An iterative graph processing system built for high scalability:
 ("used at Facebook to analyze the social graph formed by users and their connections")
+
 giraph.apache.org 
 
 A Large-Scale Graph Processing System:
+
 http://infolab.stanford.edu/gps/
 
 Stanford Network Analysis Project:
+
 http://snap.stanford.edu/
 
 A a graph computing framework for both graph databases (OLTP) and graph analytic systems (OLAP):
+
 http://tinkerpop.apache.org/
 
 -> Gelly:
 Gelly, Flink’s graph-processing API and library, 
 native support for iterations makes it a suitable platform for large-scale graph analytics:
+
 https://flink.apache.org/news/2015/08/24/introducing-flink-gelly.html
 
 -> Flink:
+
 http://data-artisans.com/robust-stream-processing-flink-walkthrough/
 
 http://www.slideshare.net/sbaltagi/presentations
+
 http://www.slideshare.net/sbaltagi/apacheflinkwhathowwhywhowherebyslimbaltagi-57825047
+
 http://www.slideshare.net/sbaltagi/stepbystep-introduction-to-apache-flink
 
 FlinkML: Large-scale Machine Learning with Apache Flink:
+
 https://sics.app.box.com/s/044omad6200pchyh7ptbyxkwvcvaiowu
 
 http://tvas.me/conferences/2016/09/01/KDD-2016-Highlights.html
@@ -41,9 +54,11 @@ http://tvas.me/conferences/2016/09/01/KDD-2016-Highlights.html
 http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=58111
 
 Tidy text mining:
+
 http://juliasilge.com/blog/Tidy-Text-Mining/
 
 Network-metrics visualization:
+
 http://kateto.net/network-visualization
 
 http://kateto.net/polnet2016
@@ -54,13 +69,18 @@ http://followthehashtag.com/datasets/
 
 (Topology: http://twitter.mpi-sws.org/)
 
-(other network related data: http://theodi.fbk.eu/openbigdata/#portfolioModal11
+(other network related data: 
+
+http://theodi.fbk.eu/openbigdata/#portfolioModal11
+
 -> possibly interesting: use tele-communications dataset for making day-time population models)
 
 Streaming:
+
 www.slideshare.net/HuafengWang/functional-comparison-and-performance-evaluation-of-streaming-frameworks 
 
 Benchmark:
+
 https://github.com/intel-hadoop/HiBench
 
 
@@ -72,11 +92,6 @@ A Central Dogma For Testing And Training
 https://www.linkedin.com/pulse/central-dogma-testing-training-paul-houle
 
 http://ontology2.com/the-book/source-code-transclusion-in-html.html
-
-
-
-
-
 
 
 
