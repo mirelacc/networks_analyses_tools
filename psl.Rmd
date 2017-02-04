@@ -3,6 +3,7 @@
 
 Great for AI, analysing graphs/networks, and any richly structured big data:
 
+https://www.youtube.com/watch?v=EIe-JBE8kRg&t=1515s&list=PLvdms0QyJYgxYA2O6bBBa918PLZE9h8Ie&index=1
 
 https://www.youtube.com/watch?v=fEY0MUC8ND0
 
@@ -12,7 +13,14 @@ https://www.youtube.com/watch?v=YsQEg6OroiQ
 
 https://www.youtube.com/watch?list=PLvdms0QyJYgxYA2O6bBBa918PLZE9h8Ie&v=EIe-JBE8kRg
 
-https://www.youtube.com/watch?v=EIe-JBE8kRg&list=PLvdms0QyJYgxYA2O6bBBa918PLZE9h8Ie
++ Wordnet:
+
+https://www.w3.org/2001/sw/BestPractices/WNET/wordnet-sw-20040713.html 
+
+https://www.w3.org/2001/sw/BestPractices/WNET/wn-conversion.html  
+
+https://www.w3.org/2001/sw/BestPractices/WNET/wn-conversion.html#distribution
+
 
 +
 
