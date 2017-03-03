@@ -32,8 +32,8 @@ Zie: http://statline.cbs.nl/Statweb/publication/?DM=SLNL&PA=82855NED&D1=0&D2=0,1
 
 
 
--> Desired output: adjacency matrix 
--> For first setup use a simple gravity model of 20>x>50 largest cities in NL.
--> Plot!
+- Desired output: adjacency matrix 
+- For first setup use a simple gravity model of 20>x>50 largest cities in NL.
+- Plot!
 
 
