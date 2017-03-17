@@ -83,6 +83,9 @@ Benchmark:
 
 https://github.com/intel-hadoop/HiBench
 
+Tink, a temporal graph analytics library for Apache Flink
+
+https://www.youtube.com/watch?v=ZBvtqLyjPqE
 
 
 ## - Peripheral:
