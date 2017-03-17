@@ -79,6 +79,11 @@ Streaming:
 
 www.slideshare.net/HuafengWang/functional-comparison-and-performance-evaluation-of-streaming-frameworks 
 
+Spark:
+
+https://www.youtube.com/watch?v=Y7hq5MudV9M&t=189s
+
+
 Benchmark:
 
 https://github.com/intel-hadoop/HiBench
