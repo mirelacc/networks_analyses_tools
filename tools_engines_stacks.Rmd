@@ -16,20 +16,17 @@ General tools/stacks
 - + http://tinkerpop.apache.org/docs/current/tutorials/getting-started/
 - + https://www.linkedin.com/pulse/tinkerpop-titan-from-python-state-mind-tutorial-via-gosnell-ph-d-
 
-- Gelly, Flink’s graph-processing API and library, native support for iterations makes it a suitable platform for large-scale graph analytics: https://flink.apache.org/news/2015/08/24/introducing-flink-gelly.html
-- + http://data-artisans.com/robust-stream-processing-flink-walkthrough/
-
-Flink
+Flink, + Gelly
 
 - http://www.slideshare.net/sbaltagi/presentations
 - http://www.slideshare.net/sbaltagi/apacheflinkwhathowwhywhowherebyslimbaltagi-57825047
 - http://www.slideshare.net/sbaltagi/stepbystep-introduction-to-apache-flink
-
-FlinkML: Large-scale Machine Learning with Apache Flink:
-
+- FlinkML: Large-scale Machine Learning with Apache Flink:
 - https://sics.app.box.com/s/044omad6200pchyh7ptbyxkwvcvaiowu
 - http://tvas.me/conferences/2016/09/01/KDD-2016-Highlights.html
 - http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=58111
+- Gelly, Flink’s graph-processing API and library, native support for iterations makes it a suitable platform for large-scale graph analytics: https://flink.apache.org/news/2015/08/24/introducing-flink-gelly.html
+- + http://data-artisans.com/robust-stream-processing-flink-walkthrough/
 
 
 Flink + Time:
