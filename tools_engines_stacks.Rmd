@@ -9,7 +9,7 @@ GDB's:
 
 General tools/stacks
 
-- An iterative graph processing system built for high scalability: ("used at Facebook to analyze the social graph formed by users and their connections") giraph.apache.org 
+- An iterative graph processing system built for high scalability: ("used at Facebook to analyze the social graph formed by users and their connections") https://giraph.apache.org 
 - A Large-Scale Graph Processing System: http://infolab.stanford.edu/gps/
 - Stanford Network Analysis Project: http://snap.stanford.edu/
 - A a graph computing framework for both graph databases (OLTP) and graph analytic systems (OLAP): ttp://tinkerpop.apache.org/
