@@ -5,16 +5,7 @@
 - ABM & Complexity: https://www.complexityexplorer.org/courses/23-introduction-to-agent-based-modeling/segments/5168
 - + https://www.youtube.com/watch?v=eG1kgeN9KJk
 
-Peter Sloot:
-
-- https://www.youtube.com/watch?v=50b6GCgBFSk
-- https://www.youtube.com/watch?v=bDrpkv_VfWM
-- https://www.youtube.com/watch?v=T3AnxpXoQNE
-- https://www.youtube.com/watch?v=6s55KZNNvbM
-- http://www.peter-sloot.com/research.html
-- www.peter-sloot.com/research.html
-
-Others:
+In no particular order:
 
 - enipedia.tudelft.nl/wiki/Main_Page
 - http://coco.binghamton.edu/
@@ -36,3 +27,12 @@ Others:
 - https://vimeo.com/164602980
 - https://twitter.com/BinghamtonCoCo 
 - https://twitter.com/Ognyanova
+
+Peter Sloot:
+
+- https://www.youtube.com/watch?v=50b6GCgBFSk
+- https://www.youtube.com/watch?v=bDrpkv_VfWM
+- https://www.youtube.com/watch?v=T3AnxpXoQNE
+- https://www.youtube.com/watch?v=6s55KZNNvbM
+- http://www.peter-sloot.com/research.html
+- www.peter-sloot.com/research.html
