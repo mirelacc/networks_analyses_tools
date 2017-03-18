@@ -14,6 +14,8 @@ Peter Sloot:
 - http://www.peter-sloot.com/research.html
 - www.peter-sloot.com/research.html
 
+Others:
+
 - enipedia.tudelft.nl/wiki/Main_Page
 - http://coco.binghamton.edu/
 - https://en.wikipedia.org/wiki/Complexity
