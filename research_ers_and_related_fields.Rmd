@@ -9,6 +9,7 @@ In no particular order:
 - https://enipedia.tudelft.nl/wiki/Main_Page
 - http://coco.binghamton.edu/
 - https://en.wikipedia.org/wiki/Complexity
+- https://en.wikipedia.org/wiki/Albert-L%C3%A1szl%C3%B3_Barab%C3%A1si
 - http://www.uva.nl/over-de-uva/organisatie/medewerkers/content/s/l/p.m.a.sloot/p.m.a.sloot.html
 - http://web.media.mit.edu/~sandy/
 - http://socialphysics.media.mit.edu/
@@ -26,6 +27,7 @@ In no particular order:
 - https://vimeo.com/164602980
 - https://twitter.com/BinghamtonCoCo 
 - https://twitter.com/Ognyanova
+
 
 Peter Sloot:
 
